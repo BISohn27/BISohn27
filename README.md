@@ -2,7 +2,7 @@
 
 Hi, I'm Byungil Sohn.
 
-I've learned programming for developing service and someday later, I'd like to be a product manager.
+I've learning programming for developing service.
 
 I learned programming first by C langague and then I learned c++. Now I'm learning Java and web programming.
 
